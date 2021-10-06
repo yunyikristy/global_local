@@ -1,8 +1,12 @@
 # Contrastive Learning of Global-Local Video Representations
 
+This repository contains PyTorch implementation of the Global-Local network proposed in our 
+paper [[Contrastive Learning of Global-Local Video Representations (NeurIPS 2021)]](https://arxiv.org/pdf/2104.05418.pdf).
+The code is free to use for academic purpose only.
+
+
 ![arch](img/arch.PNG)
 
-Implementation of ''Contrastive Learning of Global-Local Video Representations. NeurIPS 2021''
 
 ### Link:
 [[Arxiv]](https://arxiv.org/pdf/2104.05418.pdf)
