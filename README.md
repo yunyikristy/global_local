@@ -1,6 +1,6 @@
 #Contrastive Learning of Global-Local Video Representations
 
-#![arch](img/arch.png)
+![arch](img/arch.png)
 
 Implementation of ''Contrastive Learning of Global-Local Video Representations. NeurIPS 2021''
 
