@@ -9,7 +9,10 @@ The code is free to use for academic purpose only.
 
 
 ### Link:
-[[Arxiv]](https://arxiv.org/pdf/2104.05418.pdf)
+* Shuang Ma, Zhaoyang Zeng, Daniel McDuff, Yale Song. Contrastive Learning of Global and Local Audio-Visual Representations. 
+* [[Arxiv]](https://arxiv.org/pdf/2104.05418.pdf)
+* [[OpenReview]](https://openreview.net/forum?id=txWfwhc6gi&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2021%2FConference%2FAuthors%23your-submissions))
+
 
 ### Pretrain Instruction
 
@@ -30,9 +33,10 @@ conda env create -f conda_env.yml
 * LRW: [[Download]](https://www.robots.ox.ac.uk/~vgg/data/lip-reading/lrw1.html)
 
 
-### Pretraining
+### Preprain your own model
 ```
 bash run.sh
 
 ```
+
 
